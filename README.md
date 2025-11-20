@@ -1,1 +1,1 @@
-Data science practical 
+Data science practicals
